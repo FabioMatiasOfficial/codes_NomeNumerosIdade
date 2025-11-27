@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Input Nome GitHub</title>
+</head>
+<body>
+    <h1>Digite seu nome de usuário do GitHub</h1>
+
+   
+    <form action="#" method="get">
+        <div>
+            <label for="username">Nome de Usuário:</label>
+            
+            <input type="text" id="username" name="username" required>
+        </div>
+        <div>
+
+            <button type="submit">Enviar</button>
+        </div>
+    </form>
+</body>
+</html>
